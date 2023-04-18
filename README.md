@@ -19,9 +19,7 @@ My goals and requirements:
 
 ### Introducing Unisplay:
 
-<iframe src="https://cad.onshape.com/documents/4fc5c2af25eeae18645efbd3/w/9f913b638a91c140dea12e5a/e/957759159765f5f250ad211d" title="Unisplay"> </iframe>
-
 **[Case files available here](https://cad.onshape.com/documents/4fc5c2af25eeae18645efbd3/w/9f913b638a91c140dea12e5a/e/957759159765f5f250ad211d)**
 
-Design process:
-I did all fo the case design in Onshape, it is publically available. One limiting factor of the design is that the keyboard is quite wide and would be hard to fit onto a consumer print bed. I apologize for this and tried to avoid this but I simply could not. Please feel free to make a copy of the files and edit as you wish.
+### Design process:
+I did all fo the case design in Onshape, it is publically available. One limiting factor of the design is that the keyboard is quite wide and would be hard to fit onto a consumer print bed. I apologize for this and tried to avoid this but I simply could not. Please feel free to make a copy of the files and edit as you wish. There isn't a super easy way to make this printable in small pieces. I wouldn't bother unless you have access to a laser cutter. 
